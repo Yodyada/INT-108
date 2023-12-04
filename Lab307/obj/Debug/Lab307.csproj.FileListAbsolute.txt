@@ -1,0 +1,6 @@
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\obj\Debug\Lab307.csproj.CoreCompileInputs.cache
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\bin\Debug\Lab307.exe.config
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\bin\Debug\Lab307.exe
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\bin\Debug\Lab307.pdb
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\obj\Debug\Lab307.exe
+D:\Namwan\มหาลัย\INT-107\01072564\MyCode1_01072564\Lab307\obj\Debug\Lab307.pdb
